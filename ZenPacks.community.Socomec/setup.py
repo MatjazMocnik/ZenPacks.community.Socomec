@@ -5,7 +5,7 @@
 NAME = "ZenPacks.community.Socomec"
 VERSION = "1.0.0"
 AUTHOR = "Matjaž Močnik"
-LICENSE = "GPL"
+LICENSE = "GPLv3"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.Socomec']
 INSTALL_REQUIRES = []
