@@ -4,8 +4,8 @@
 # NB: PACKAGES is deprecated
 NAME = "ZenPacks.community.Socomec"
 VERSION = "1.0.0"
-AUTHOR = "Matjaž Močnik"
-LICENSE = "GPLv3"
+AUTHOR = "Matjaz Mocnik"
+LICENSE = ""
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.Socomec']
 INSTALL_REQUIRES = []
